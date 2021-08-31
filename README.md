@@ -1,6 +1,6 @@
 # Overview
 
-Project Catalyst is a series of experiments which seeks to generate the highest levels of community innovation. Catalyst is bringing on-chain governance to the Cardano blockchain by allowing the community to self-determine priorities for growth.
+Project Catalyst est une série d'expériences visant à générer les plus hauts niveaux d'innovation communautaire. Catalyst apporte la gouvernance en chaîne à la blockchain Cardano en permettant à la communauté d'autodéterminer les priorités de croissance.
 
 **Contents**
 
