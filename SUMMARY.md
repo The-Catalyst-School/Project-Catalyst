@@ -13,12 +13,15 @@
 ## Voter
 
 * [Voter Guide](voter/voter-guide.md)
+* [Voter Registration](voter/voter-registration.md)
 
 ## Community Advisor
 
 * [Community Advisor Guide](community-advisor/community-advisor-guide.md)
+* [Assessment Guide](community-advisor/assessment-guide.md)
 
 ## Proposer
 
 * [Proposer Guide](proposer/proposer-guide.md)
+* [Challenge Setting Guide](proposer/challenge-setting-guide.md)
 

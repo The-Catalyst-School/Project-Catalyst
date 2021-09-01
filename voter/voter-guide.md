@@ -1,20 +1,26 @@
 # Voter Guide
 
-\[TODO - Extract and add information here\]
+**What is voting in Project Catalyst?**
 
-**Resources**
+In each Project Catalyst funding round Ada holders are able to vote for which projects they want to be funded by the community. Collectively the total Ada from voters will decide which proposals will get funded. The proposals that get funded will influence how the Cardano ecosystem will evolve over time.
 
-* [iOS Catalyst App](https://apps.apple.com/app/id1517473397)
-* [Android Catalyst App](https://play.google.com/store/apps/details?id=io.iohk.vitvoting)
-* [Registration and voting guide](https://iohk.zendesk.com/hc/en-us/articles/900005679386)
-* [All you need to know - Fund 6 Voting](https://www.reddit.com/r/cardano/comments/p2xpi8/project_catalyst_all_you_need_to_know_fund6_voter/)
-* [Fund 3 rewards calculation](https://docs.google.com/document/d/1Z2qLzGbLQxLgfDKqnTZFTL3IM28V8uUykptng0p5jbE/edit)
+**Why should I vote?**
 
-**Community resources**
+As a voter, you can influence the future development in the Cardano ecosystem. You will be part of the largest DAO and decentralized venture capital fund in the world.
 
-{% hint style="info" %}
-The following resources are not maintained by IOHK but have been used by the community, please be careful of scams
-{% endhint %}
+**Who should / can vote?**
 
-* [Stake pool operator voting registration](https://github.com/gitmachtl/scripts/blob/master/SPO_Pledge_Catalyst_Registration.md)
+Every Ada holder that has at least 500 Ada in a wallet can use it to vote. Future funding rounds aim to have the minimum threshold decrease over time.
+
+**How can I vote?**
+
+For voting you can use a number of different wallets such as [Yoroi](https://yoroi-wallet.com/#/), [Daedalus](https://daedaluswallet.io/) or [Adalite](https://adalite.io/) wallets. Within a given wallet you will need to register to vote before voting. You can check the most recent [official post](https://www.reddit.com/r/cardano/comments/ofo1bz/fund_5_register_to_vote_all_you_need_to_know/) on all you need to know about voting.
+
+**What are the important dates & timelines?**
+
+The next voting phase will be announced via Telegram on the [Project Catalyst Announcements Channel](https://t.me/cardanocatalyst).
+
+**How do I register to vote?**
+
+Read the [voter registration](voter-registration.md) resource to register for the next funding round
 
