@@ -3,7 +3,7 @@
 * [Cardano Ideascale](https://cardano.ideascale.com/) - Submit and review proposals that look to receive funding from the treasury
 * [Town hall meeting registration](https://zoom.us/meeting/register/tJEtduyupzMvHNUczCQwfFJGcXzmw2lDwkIf) - Join the weekly town halls to get involved with the community
 
-The following links focus on Project Catalyst, check the [Cardano website](https://cardano.org/) for other information focussed on Cardano.
+The links below focus on Project Catalyst. To find out about Cardano more specifically check the [Cardano website](https://cardano.org/) for other useful information.
 
 ## **Communication**
 

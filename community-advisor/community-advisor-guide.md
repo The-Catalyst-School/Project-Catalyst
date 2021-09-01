@@ -1,9 +1,11 @@
 # Community Advisor Guide
 
+Read the [community advisor overview](community-advisor-overview.md) to understand why to become a community advisor. ****
+
 ## **The purpose of Community Advisors**
 
 1. Provide a perspective that helps voters make good, informed decisions regarding which proposals to fund.
-2. Provide proposers with feedback that helps their ideas be more impactful, auditable and feasible.  Community Advisors achieve this by reviewing proposals based on the given [review criteria](https://docs.google.com/document/d/1QkdaFK1tigrSI40iMeV3UP9GyTGsoqVmCUp7OJz0WFs/edit#heading=h.et0c7nlbz41e). They will then provide a [numerical score](https://docs.google.com/document/d/1QkdaFK1tigrSI40iMeV3UP9GyTGsoqVmCUp7OJz0WFs/edit#heading=h.et0c7nlbz41e) and an explanation \(rationale\) of the score. Please refer to the [Guiding Principles section](https://docs.google.com/document/d/1QkdaFK1tigrSI40iMeV3UP9GyTGsoqVmCUp7OJz0WFs/edit#heading=h.2lp6983fhqab).
+2. Provide proposers with feedback that helps their ideas be more impactful, auditable and feasible.  Community Advisors achieve this by reviewing proposals based on the given [review criteria](community-advisor-guide.md#scoring-criteria). They will then provide a [numerical score](community-advisor-guide.md#scoring-criteria) and an explanation \(rationale\) of the score. Please refer to the [Guiding Principles section](community-advisor-guide.md#community-advisor-guiding-principles).
 3. There will probably be more Proposals than a single person can thoughtfully review in the time allotted. The quality of the reviews is of paramount concern. It may be wise to review the proposals that really speak to you first, and then consider others, if you have the time and desire.
 
 ## **Community Advisor Requirements**
@@ -21,7 +23,7 @@
 
 ## **Timeline**
 
-Each Funding Round will provide a 7 day window for CA Reviews. This will be followed by a 5 day “[Review of the Reviewers](https://docs.google.com/document/d/1QkdaFK1tigrSI40iMeV3UP9GyTGsoqVmCUp7OJz0WFs/edit#heading=h.aklbl5wdabfx)” phase. 
+Each Funding Round will provide a 7 day window for CA Reviews. This will be followed by a 5 day “[Review of the Reviewers](community-advisor-guide.md#review-the-reviewer-process)” phase. 
 
 ## **Scoring Criteria**
 

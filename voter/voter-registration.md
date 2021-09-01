@@ -1,5 +1,7 @@
 # Voter Registration
 
+Read the [voter overview](voter-guide.md) to understand why to register as a voter. ****
+
 ## Prerequisites for registration
 
 1. Registration is supported via each of the following: 

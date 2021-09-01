@@ -1,5 +1,7 @@
 # Proposer Guide
 
+Read the [proposer overview](proposer-overview.md) to understand why to become a proposer. ****
+
 ## **Proposal Guide**
 
 Project Catalyst is underway and we’re seeing some incredible participation from a wide spectrum of individuals. This is a collaborative process to create a worldwide community innovation project. The problem statement, solution, relevant experience, and funds requested will be displayed in the voting application. This will allow everyone to learn about the initiatives before voting on them.

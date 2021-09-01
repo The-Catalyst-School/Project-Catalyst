@@ -1,4 +1,4 @@
-# Voter Guide
+# Voter Overview
 
 **What is voting in Project Catalyst?**
 
