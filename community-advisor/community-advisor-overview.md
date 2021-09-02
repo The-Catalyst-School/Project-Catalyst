@@ -27,9 +27,9 @@ Each funding round, you can sign up to become a community advisor. Just go to [C
 To become a better CA, carefully read official [CA guide](https://docs.google.com/document/d/1Fn1CQHK_TNSaybQtnxvI9DZJ9PAufZelBEfOLWbp-gw) and follow the guiding principles.
 
 * 1. Treat proposals and proposers with respect.
-* 2. Separate the idea from the proposal.
-* 3. Be mindful of your time and knowledge.
-* 4. Community Advisors offer advice.
+* 1. Separate the idea from the proposal.
+* 1. Be mindful of your time and knowledge.
+* 1. Community Advisors offer advice.
 
 **How can I stay up to date with the recent information for CAs?**
 
@@ -41,7 +41,7 @@ You can join the [CA Telegram](https://t.me/CatalystCommunityAdvisors) channel t
 
 **What is the timeline for CAs in each funding round?**
 
-Each funding round \(every 12 weeks currently\) will provide a 7 day window for CA Reviews called the "Assess Proposals" phase. This will be followed by a 5 day “Review of the Reviewers” phase carried out by Veteran Community Advisors \(vCA\). 
+Each funding round \(every 12 weeks currently\) will provide a 7 day window for CA Reviews called the "Assess Proposals" phase. This will be followed by a 5 day “Review of the Reviewers” phase carried out by Veteran Community Advisors \(vCA\).
 
 ## **Veteran Community Advisor**
 

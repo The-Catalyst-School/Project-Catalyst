@@ -1,12 +1,12 @@
 # FAQ
 
-#### **What is Project Catalyst?**
+### **What is Project Catalyst?**
 
 Project Catalyst is a series of experiments which seeks to generate the highest levels of community innovation. Catalyst is bringing on-chain governance to the Cardano blockchain by allowing the community to self-determine priorities for growth. It also lets participants deploy funding to proposals which tackle challenges and capitalize on opportunities that arise in the life cycle of Cardano.
 
 To do this, Project Catalyst is divided into a series of funds which are deployed every six weeks. These funds will illicit ideas in the form of proposals from participants. Each proposal will focus around a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals will then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized they will be voted on by the community and funds will be distributed in the form of ada to winning projects. Each stage of this process is described in greater detail throughout this document.
 
-#### **How can I participate?**
+### **How can I participate?**
 
 Anyone can participate in Project Catalyst. Ada-holders, and those new to Cardano are more than welcome. We are also looking for both technical and non-technical expertise. This is all about casting a wide net to find great ideas and make them better. So, you can take part in Project Catalyst in the following ways:
 
@@ -20,7 +20,7 @@ Anyone can participate in Project Catalyst. Ada-holders, and those new to Cardan
 * Review finalized proposals to help ada holders make the best decision
 * Provide us feedback on how to improve the process facilitating its efficiency
 
-#### **What will the process look like?**
+### **What will the process look like?**
 
 The program consists of five key phases; innovation, governance and execution. Read the [funding process page](funding-process.md) to learn more.
 
@@ -32,25 +32,25 @@ In short, because we can achieve more collaboratively than individually. The pur
 
 **What do you mean when you call Project Catalyst an experiment?**
 
-Experiments are about trying things out, testing ideas, iterating, improving – and that is exactly what Project Catalyst is all about. Voting, treasuries, and generating global consensus are tricky business and we assume that our initial efforts won’t be perfect. That is why we have chosen to develop on-chain governance through a series of experiments meant to expose flaws, reveal dependencies, and test the system as a whole. With each iteration we will take lessons learned  and apply them to the next funding round. The end goal of these experiments is a robust voting, innovation, and treasury system which works for everyone.
+Experiments are about trying things out, testing ideas, iterating, improving – and that is exactly what Project Catalyst is all about. Voting, treasuries, and generating global consensus are tricky business and we assume that our initial efforts won’t be perfect. That is why we have chosen to develop on-chain governance through a series of experiments meant to expose flaws, reveal dependencies, and test the system as a whole. With each iteration we will take lessons learned and apply them to the next funding round. The end goal of these experiments is a robust voting, innovation, and treasury system which works for everyone.
 
 **If crowdsourcing is better why aren’t all decisions made this way?**
 
-One day, they will. Many centralized organizations do not place a high premium on development through community interaction. Furthermore, their limited scope means that a relatively small amount of challenges need to be solved at any given point. Cardano is building a decentralized global financial and social operating system so increasingly, we’ll be looking to our highly motivated community to set direction, create value and address issues. 
+One day, they will. Many centralized organizations do not place a high premium on development through community interaction. Furthermore, their limited scope means that a relatively small amount of challenges need to be solved at any given point. Cardano is building a decentralized global financial and social operating system so increasingly, we’ll be looking to our highly motivated community to set direction, create value and address issues.
 
 **Is the innovation platform set in stone, or will it change over time?**
 
 It will continue to evolve and adapt over time. Given that Project Catalyst is a series of experiments meant to build a global on-chain governance system it will naturally change to become stronger as new ideas emerge. One of the reasons that we are including the community in this work is to ensure that their voice is heard in the final outcome. So yes, the innovation platform will change with each iteration.
 
-Is the voting strictly based on the work done in this paper, "A Treasury System for Cryptocurrencies: Enabling Better Collaborative Intelligence", or have there been changes?This paper was an important jumping off point for defining how governance works for the treasury. Since then, the Catalyst governance protocol team has  worked to generate updated protocol taking into regards community feedback and technical constraints.
+Is the voting strictly based on the work done in this paper, "A Treasury System for Cryptocurrencies: Enabling Better Collaborative Intelligence", or have there been changes?This paper was an important jumping off point for defining how governance works for the treasury. Since then, the Catalyst governance protocol team has worked to generate updated protocol taking into regards community feedback and technical constraints.
 
 **What are kudos?**
 
 Think of kudos like a reputation score - a measure of how your contribution is valued by the community. Kudos is a method for signaling beneficial behavior in the community which we would like to see more of. This could include a great idea, or a helpful comment.
 
- In crowdsourcing projects, once ideas have been generated, they can be turned into a hierarchy. This often pushes ideas which need more incubation out of the public conversation. We are trying to reduce this effect. That is why we are not liking, ranking, or voting up. This allows individuals to take in a large amount of perspectives. This is why we are using Kudos. These are a signal that indicates value given to the community. This could be a great idea or an insightful comment, ultimately it is a way of showing the community what we want to see more of. This helps build the reputation of people who are being helpful. It also helps show support for a proposal, since hovering above the kudos will show the usernames of all supporters.
+In crowdsourcing projects, once ideas have been generated, they can be turned into a hierarchy. This often pushes ideas which need more incubation out of the public conversation. We are trying to reduce this effect. That is why we are not liking, ranking, or voting up. This allows individuals to take in a large amount of perspectives. This is why we are using Kudos. These are a signal that indicates value given to the community. This could be a great idea or an insightful comment, ultimately it is a way of showing the community what we want to see more of. This helps build the reputation of people who are being helpful. It also helps show support for a proposal, since hovering above the kudos will show the usernames of all supporters.
 
-#### **How much in funding does the treasury currently hold?**
+### **How much in funding does the treasury currently hold?**
 
 You can track all the stats [here](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0)**.**
 
@@ -76,7 +76,7 @@ During the execution phase funding, will be given to teams or individuals workin
 
 **How do you get funded to become a professional thought leader who helps with ideation?**
 
-We have three incentives possible to receive during participation in Project Catalyst These include the voter reward, community advisor reward, and the proposal reward. We believe that the success of these projects means the success of ada in the long term. This means that everyone has skin in the game in some respect. 
+We have three incentives possible to receive during participation in Project Catalyst These include the voter reward, community advisor reward, and the proposal reward. We believe that the success of these projects means the success of ada in the long term. This means that everyone has skin in the game in some respect.
 
 **Why is there an ada threshold to register to vote?**
 
@@ -102,11 +102,11 @@ Yes. We hope that there will be. There is no hard and fast rule against the fund
 
 Yes
 
-#### **How are rewards calculated?**
+### **How are rewards calculated?**
 
 There are currently the following types of rewards: [voter rewards](https://docs.google.com/document/d/1VX69i5_H--5K5s1XifKl1-Z5ngabVccS73_2isQ6qkk/edit), proposer rewards, community advisor rewards, veteran community advisor rewards and referrer rewards.
 
-#### **What happens to proposal funding if ada price shifts?**
+### **What happens to proposal funding if ada price shifts?**
 
 We currently use the following methodology for insuring price stability:
 
@@ -115,9 +115,9 @@ We currently use the following methodology for insuring price stability:
 
 ## Governance and legal
 
-#### **Who maintains the intellectual property rights for a funded proposal?**
+### **Who maintains the intellectual property rights for a funded proposal?**
 
-Each proposer will define their own copyright and intellectual property. 
+Each proposer will define their own copyright and intellectual property.
 
 **Who makes the challenges?**
 
@@ -137,7 +137,7 @@ They will have to make another proposal and rely on the understanding and flexib
 
 **Are there any legal protections for IP?**
 
-Decentralized innovation is complicated, as is IP. The legal position of IOHK is that there is no legal entity behind the treasury. That means that the treasury cannot enforce and/or own IP. We can support the free flow of information. In the innovation platform there will be a section which allows individuals to discuss their own IP. Some projects will be open source and some will preserve their own IP. In the end it is up to the community to decide for themselves. We will provide some guidelines for how IP is to be dealt with in the future to assist 
+Decentralized innovation is complicated, as is IP. The legal position of IOHK is that there is no legal entity behind the treasury. That means that the treasury cannot enforce and/or own IP. We can support the free flow of information. In the innovation platform there will be a section which allows individuals to discuss their own IP. Some projects will be open source and some will preserve their own IP. In the end it is up to the community to decide for themselves. We will provide some guidelines for how IP is to be dealt with in the future to assist
 
 **How can we be sure people don’t ‘run away with the money’?**
 
@@ -181,7 +181,7 @@ Currently, there is no direct process to do this. We’re looking to the experti
 
 **How will feedback to proposers be given?**
 
-Feedback is given  through IdeaScale. There, anyone can provide helpful thoughts to strengthen proposals and their ability to be implemented effectively.
+Feedback is given through IdeaScale. There, anyone can provide helpful thoughts to strengthen proposals and their ability to be implemented effectively.
 
 Is the challenge intended to be macro focused on how to implement things that encourage developers to build on Cardano, OR micro focused on actually funding the creation of specific DApp proposals? OR both
 
@@ -195,13 +195,13 @@ An innovator is anyone who brings ideas for advancement to the innovation platfo
 
 **Who is the proposer?**
 
-Think of the proposer as  the “CEO” of the proposal, accountable for guiding it’s execution from start to finish.
+Think of the proposer as the “CEO” of the proposal, accountable for guiding it’s execution from start to finish.
 
 **What is a community advisor?**
 
 A community advisor is familiar with the innovation platform, the challenge, and best practices for developing a proposal. They act to assist innovators in ensuring that their ideas are auditable, achievable, and impactful.
 
-**What is the role of implementers?** 
+**What is the role of implementers?**
 
 Implementers make the proposals happen. These can be individuals, teams of developers or even partnerships with organizations.
 
@@ -213,7 +213,7 @@ Voters will eventually decide if a proposal is funded or if more improvements ar
 
 Yes! We encourage everyone to explore working in teams and groups.
 
-**Are there appointed professionals who can refine ideas?** 
+**Are there appointed professionals who can refine ideas?**
 
 We do not have a structured expert class as of this moment. We encourage anyone looking for guidance to reach out to participants in previous funds. The Project Catalyst community always the best source of information, innovation, and inspiration for new participants.
 

@@ -2,11 +2,11 @@
 
 Guidelines for the application of Scoring Criteria in the Catalyst Fund Process
 
-## **General Guidelines** 
+## **General Guidelines**
 
-The Community Advisor \(CA\) is a self assigned role in the Cardano Project Catalyst Community. 
+The Community Advisor \(CA\) is a self assigned role in the Cardano Project Catalyst Community.
 
-Within this role you review proposals in the assessment phase. You are asked to determine how well each proposal matches each of the three criteria: impact, feasibility and auditability. The combined individual score across the three criteria will give an overall score for the proposal. 
+Within this role you review proposals in the assessment phase. You are asked to determine how well each proposal matches each of the three criteria: impact, feasibility and auditability. The combined individual score across the three criteria will give an overall score for the proposal.
 
 As a CA you play an important role in the Catalyst funding process by providing guidance to voters who will use it to make their decisions. You are also offering feedback to proposers through your rationale.
 
@@ -37,7 +37,7 @@ The following principles are designed for CAs and should be followed to help the
 
 ### **1\) Impact**
 
-Scoring the impact of a proposal means that you are assessing whether the proposal addresses the objectives laid out in the challenge or not. As each challenge has its own set of objectives, be sure to be fully aware of them as you conduct your assessment. The objectives can be found in Ideascale under the heading "campaign brief" in the sections about how success looks like and key metrics to measure. Since the challenge settings can be interpreted differently by different people, it is your role to determine why the proposed solution fits into the specific challenge category - based on what the proposer has communicated. 
+Scoring the impact of a proposal means that you are assessing whether the proposal addresses the objectives laid out in the challenge or not. As each challenge has its own set of objectives, be sure to be fully aware of them as you conduct your assessment. The objectives can be found in Ideascale under the heading "campaign brief" in the sections about how success looks like and key metrics to measure. Since the challenge settings can be interpreted differently by different people, it is your role to determine why the proposed solution fits into the specific challenge category - based on what the proposer has communicated.
 
 **Suggested characteristics of an impactful proposal:**
 
@@ -64,7 +64,7 @@ The proposal touches upon the fact that some version of the dashboard is availab
 
 ### **2\) Feasibility**
 
-Scoring the feasibility of a proposal means that you are assessing whether a proposal is likely to be successfully implemented or not. It is your task as a CA to assess the proposal's ability to solve the problem that has been identified. There are no firm rules for this; it will all depend on what information the proposer has provided. 
+Scoring the feasibility of a proposal means that you are assessing whether a proposal is likely to be successfully implemented or not. It is your task as a CA to assess the proposal's ability to solve the problem that has been identified. There are no firm rules for this; it will all depend on what information the proposer has provided.
 
 **A feasible proposal has considered the following aspects:**
 

@@ -1,6 +1,6 @@
 # Community Advisor Guide
 
-Read the [community advisor overview](community-advisor-overview.md) to understand why to become a community advisor. ****
+Read the [community advisor overview](community-advisor-overview.md) to understand why to become a community advisor. _\*\*_
 
 ## **The purpose of Community Advisors**
 
@@ -23,7 +23,7 @@ Read the [community advisor overview](community-advisor-overview.md) to understa
 
 ## **Timeline**
 
-Each Funding Round will provide a 7 day window for CA Reviews. This will be followed by a 5 day “[Review of the Reviewers](community-advisor-guide.md#review-the-reviewer-process)” phase. 
+Each Funding Round will provide a 7 day window for CA Reviews. This will be followed by a 5 day “[Review of the Reviewers](community-advisor-guide.md#review-the-reviewer-process)” phase.
 
 ## **Scoring Criteria**
 
@@ -39,7 +39,7 @@ This proposal effectively addresses the challenge. Each challenge will have a ne
 * A community which would benefit from the launch of this proposal.
 * An ability to scale to address future challenges.
 
-### **Feasibility** 
+### **Feasibility**
 
 Given the proposing team’s experience and plans, it is highly likely this proposal will be implemented successfully. You should be able to find this information within the proposal.
 
@@ -69,14 +69,13 @@ The 1-5 scores mean the following:
 * \(4\) Agree
 * \(5\) Strongly agree
 
-For each statement: 
+For each statement:
 
 * CAs must explain their rationale for a score given. The evaluations and rationale provided must be transparent, so voters can understand all considerations. It is important to note that any assessments without a rationale will be filtered out and the CA will not be compensated.
 * CAs must ensure they include additional information or improvements needed for proposers to gain a higher score in future rounds. 
 * Once a review is submitted, it can be edited until the review window closes.
 
-Please direct any further questions to [Telegram CatalystCommunityAdvisors](https://t.me/CatalystCommunityAdvisors)  
-
+Please direct any further questions to [Telegram CatalystCommunityAdvisors](https://t.me/CatalystCommunityAdvisors)
 
 ## **The review has been completed. What happens next?**
 

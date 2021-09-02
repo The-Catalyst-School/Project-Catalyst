@@ -1,12 +1,12 @@
 # Proposer Guide
 
-Read the [proposer overview](proposer-overview.md) to understand why to become a proposer. ****
+Read the [proposer overview](proposer-overview.md) to understand why to become a proposer. _\*\*_
 
 ## **Proposal Guide**
 
 Project Catalyst is underway and we’re seeing some incredible participation from a wide spectrum of individuals. This is a collaborative process to create a worldwide community innovation project. The problem statement, solution, relevant experience, and funds requested will be displayed in the voting application. This will allow everyone to learn about the initiatives before voting on them.
 
-The proposal plans and attachments can be viewed on our innovation platform, hosted by Ideascale, in order to gain an understanding of the details. This all means that we want everyone to feel confident in contributing to the discussion as a whole. 
+The proposal plans and attachments can be viewed on our innovation platform, hosted by Ideascale, in order to gain an understanding of the details. This all means that we want everyone to feel confident in contributing to the discussion as a whole.
 
 The quality of the output is dependent on the community’s ability to create and engage with new ideas. To that end, we would like to share a quick guide to writing successful proposals:
 
@@ -24,15 +24,14 @@ Each fund will have a specific challenge which proposals will attempt to solve. 
 
 **Challenge**
 
-How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?  
-  
+How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
+
 **Problem statements**
 
 1. Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals? 
 2. I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet.
 
-In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.  
-
+In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.
 
 **Making great problem statements \(140 char. limit\)**
 
@@ -43,14 +42,11 @@ The problem statement identifies the issue related to the challenge, and offers 
 * Desired outcome: This paints a picture of the ideal set of circumstances once your solution is accepted.
 * Blocking problem: A concise explanation of the problem preventing this set of circumstances from occurring.
 * Costs of the problem: A summation of both the opportunity and financial costs of the problem to key stakeholders. This helps voters assess how much impact the problem has.
-
-
-
-  * **Evidence**: Support for your position laid out in a detailed plan.
+* **Evidence**: Support for your position laid out in a detailed plan.
 
 **Here’s an example:**
 
-|  **** |  |
+| _\*\*_ |  |
 | :--- | :--- |
 | Desired Outcome | We want to make it affordable to transfer money to workers living in the Philippines. |
 | Blocking problem | 11% of the population of the Philippines lose money on transaction fees. |
@@ -71,9 +67,9 @@ The problem statement identifies the issue related to the challenge, and offers 
 
 **Structuring the Solution**
 
-So, you only have 140 characters to give a lot of important information. When every character counts, it is important that you address the prompt exactly.   
-  
-It may sound obvious, but your solution must be based on a known problem. It has to actually solve the problem laid out in the problem statement. A solution in search of a problem is rarely an attractive option because it is less efficient than filling a distinct need. So remember: start with solving a problem and then lay out the vision of your solution in the ‘Plan in Detail’ section. Your 140 characters should address the problem, solve it, and give some insight into how your solution is different from others. 
+So, you only have 140 characters to give a lot of important information. When every character counts, it is important that you address the prompt exactly.
+
+It may sound obvious, but your solution must be based on a known problem. It has to actually solve the problem laid out in the problem statement. A solution in search of a problem is rarely an attractive option because it is less efficient than filling a distinct need. So remember: start with solving a problem and then lay out the vision of your solution in the ‘Plan in Detail’ section. Your 140 characters should address the problem, solve it, and give some insight into how your solution is different from others.
 
 * **Example solution statement:** Create a stakepool operator-run digital magazine maintained on the blockchain to expose Cardano to new audiences outside of current users.
 
@@ -103,7 +99,7 @@ Founders: The people who are working on your proposal can lend their personal ex
 
 **Differentiate through insight**
 
-Now that we have outlined the problem and given a solid solution, let’s talk about execution. 
+Now that we have outlined the problem and given a solid solution, let’s talk about execution.
 
 Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development..
 
@@ -135,7 +131,7 @@ It is also important to remember that your budget should meet the requirements o
 
 **Getting on the road**
 
-When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals. 
+When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals.
 
 In the roadmap it is also important to identify your key performance indicators \(KPIs\). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
 
@@ -144,9 +140,9 @@ In the roadmap it is also important to identify your key performance indicators 
 * Performance benchmark reached
 * Network stability achieved for x amount of time
 
-The important thing to remember about KPIs is that they should have a number attached to them. Acquiring an initial 15 users is an achievable goal. Acquiring ‘a lot’ of users is pretty vague and difficult for anyone to adjudicate. Remember, you are presenting these ideas to the community, the clearer you make your intentions and the easier it is to verify that you have achieved your goals, the more likely it is that you will be seen as a great bet. 
+The important thing to remember about KPIs is that they should have a number attached to them. Acquiring an initial 15 users is an achievable goal. Acquiring ‘a lot’ of users is pretty vague and difficult for anyone to adjudicate. Remember, you are presenting these ideas to the community, the clearer you make your intentions and the easier it is to verify that you have achieved your goals, the more likely it is that you will be seen as a great bet.
 
-**IP** 
+**IP**
 
 Please share with reviewers what is your IP policy \(Patents, trademarks, copyright, licensing etc’\) so they can assess if that is a good fit for the treasury.
 

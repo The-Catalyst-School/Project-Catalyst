@@ -1,6 +1,6 @@
 # Challenge Setting Guide
 
-## **HOW TO WRITE A Community choice proposal** 
+## **HOW TO WRITE A Community choice proposal**
 
 **Emancipating the community**
 
@@ -8,8 +8,7 @@ The purpose of having the Project Catalyst community write their own challenge i
 
 **Focus on advancement**
 
-The challenge is a question which helps the community focus its creativity on advancing the Cardano ecosystem. Of course, ‘advancement’ means different things to different people. The key to writing an impactful challenge question is balance. It must be broad enough to be addressed in multiple ways, but specific enough to enhance the value of Cardano for everyone.  
-
+The challenge is a question which helps the community focus its creativity on advancing the Cardano ecosystem. Of course, ‘advancement’ means different things to different people. The key to writing an impactful challenge question is balance. It must be broad enough to be addressed in multiple ways, but specific enough to enhance the value of Cardano for everyone.
 
 **Challenge question examples**
 
