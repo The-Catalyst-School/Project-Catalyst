@@ -3,9 +3,9 @@
 * [Cardano Ideascale](https://cardano.ideascale.com/) - Submit and review proposals that look to receive funding from the treasury
 * [Town hall meeting registration](https://zoom.us/meeting/register/tJEtduyupzMvHNUczCQwfFJGcXzmw2lDwkIf) - Join the weekly town halls to get involved with the community
 
-Check the [Cardano website](https://cardano.org/) for information about anything Cardano.
+The links below focus on Project Catalyst. To find out about Cardano more specifically check the [Cardano website](https://cardano.org/) for other useful information.
 
-### **Communication**
+## **Communication**
 
 {% hint style="info" %}
 Official communication channels by IOHK
@@ -32,7 +32,7 @@ Official communication channels by IOHK
 
 * [Cardano community](https://discord.gg/wNtBYRj6eu) 
 
-### **Project Catalyst**
+## **Project Catalyst**
 
 * [Project Catalyst dashboard](https://docs.google.com/spreadsheets/d/15R-Vbajy4t4fGs1TipNMfL1pEO9cwdn6WV13lKviX4Q/edit?pli=1#gid=755717523)
 * [Community moderation](https://docs.google.com/document/d/1G__eWrmsUxecET2e3zIniPSQJ-FWI1YAGJ-vLwzm8U8/edit)
@@ -42,12 +42,17 @@ Official communication channels by IOHK
 * [All funded proposals Miro board](https://miro.com/app/board/o9J_lDdCgNk=/)
 * [IOHK Project Catalyst help articles](https://iohk.zendesk.com/hc/en-us/sections/4404313438617-Project-Catalyst)
 
+**Ideascale**
+
+* [Ideascale **-** submit an idea guide](https://intercom.help/ideascale/en/articles/682959-submit-an-idea)
+* [Ideascale FAQ on Kudos](https://support.ideascale.com/en/articles/4197062-faq-on-kudos)
+
 **Resources from the beginning of Project Catalyst**
 
 * \*\*\*\*[Implementing Cardano's governance model](https://www.youtube.com/watch?v=WcI-ZvyeRd8) 
 * [Project Catalyst launch article](https://iohk.io/en/blog/posts/2020/09/10/project-catalyst-voltaire-bring-power-to-the-people/)
 
-### **Community Projects & Tools**
+## **Community Projects & Tools**
 
 {% hint style="info" %}
 Projects and tools which are not maintained by IOHK, please be careful of scams
