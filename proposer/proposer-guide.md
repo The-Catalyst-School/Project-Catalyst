@@ -1,6 +1,6 @@
 # Proposer Guide
 
-Read the [proposer overview](proposer-overview.md) to understand why to become a proposer. _\*\*_
+Read the [proposer overview](proposer-overview.md) to understand why to become a proposer.
 
 ## **Proposal Guide**
 

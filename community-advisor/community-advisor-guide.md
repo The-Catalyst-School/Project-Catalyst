@@ -1,6 +1,6 @@
 # Community Advisor Guide
 
-Read the [community advisor overview](community-advisor-overview.md) to understand why to become a community advisor. _\*\*_
+Read the [community advisor overview](community-advisor-overview.md) to understand why to become a community advisor.
 
 ## **The purpose of Community Advisors**
 

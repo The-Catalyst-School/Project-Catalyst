@@ -49,7 +49,7 @@ Official communication channels by IOHK
 
 **Resources from the beginning of Project Catalyst**
 
-* \*\*\*\*[Implementing Cardano's governance model](https://www.youtube.com/watch?v=WcI-ZvyeRd8) 
+* [Implementing Cardano's governance model](https://www.youtube.com/watch?v=WcI-ZvyeRd8) 
 * [Project Catalyst launch article](https://iohk.io/en/blog/posts/2020/09/10/project-catalyst-voltaire-bring-power-to-the-people/)
 
 ## **Community Projects & Tools**
