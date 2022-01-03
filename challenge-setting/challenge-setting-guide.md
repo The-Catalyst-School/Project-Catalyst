@@ -1,14 +1,18 @@
 # Challenge Setting Guide
 
-## **HOW TO WRITE A Community choice proposal**
+## **How to write a community choice proposal**
 
 **Emancipating the community**
 
 The purpose of having the Project Catalyst community write their own challenge is to emancipate the platform from the Project Catalyst team. Eventually, the Cardano community will control the innovation and collaboration process from inception to delivery. With that in mind, it is crucial that we understand what an impactful challenge looks like.
 
+
+
 **Focus on advancement**
 
 The challenge is a question which helps the community focus its creativity on advancing the Cardano ecosystem. Of course, ‘advancement’ means different things to different people. The key to writing an impactful challenge question is balance. It must be broad enough to be addressed in multiple ways, but specific enough to enhance the value of Cardano for everyone.
+
+****
 
 **Challenge question examples**
 
@@ -24,10 +28,11 @@ Below are a couple examples of challenge questions:
 
 **Just right -** How can we encourage entrepreneurs to develop businesses on Cardano in the next six months?
 
-* This challenge has a time frame and addresses a community which is important to the entire Cardano community. Furthemore, it can be addressed in many different ways through both technical and non-technical contributions. However, writing challenge questions is only one important part of Project Catalyst. Addressing those challenges in a clear and concise manner is also necessary to identifying the most impactful ideas for Project Catalyst.
+* This challenge has a time frame and addresses a community which is important to the entire Cardano community. Furthermore, it can be addressed in many different ways through both technical and non-technical contributions. However, writing challenge questions is only one important part of Project Catalyst. Addressing those challenges in a clear and concise manner is also necessary to identifying the most impactful ideas for Project Catalyst.
+
+
 
 ## Re**sources**
 
-* [Proposer guide](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/edit)
+* [Proposer guide](https://docs.google.com/document/d/1oE\_cnP0gksdAanXV4w5DYaDNp\_tbYEvyHhTUG4HYZ3Q/edit)
 * [Ideascale **-** submit an idea guide](https://intercom.help/ideascale/en/articles/682959-submit-an-idea)
-

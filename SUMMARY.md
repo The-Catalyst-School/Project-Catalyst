@@ -5,10 +5,15 @@
 ## Project Catalyst
 
 * [What is Project Catalyst?](project-catalyst/what-is-project-catalyst.md)
-* [Funding Process](project-catalyst/funding-process.md)
+* [Community Moderation Guidelines](project-catalyst/community-moderation-guidelines.md)
 * [Useful Links](project-catalyst/useful-links.md)
 * [Glossary](project-catalyst/glossary.md)
 * [FAQ](project-catalyst/faq.md)
+
+## Funding Process
+
+* [Funding Process](funding-process/funding-process.md)
+* [Insight Sharing](funding-process/insight-sharing.md)
 
 ## Voter
 
@@ -25,5 +30,12 @@
 
 * [Proposer Overview](proposer/proposer-overview.md)
 * [Proposer Guide](proposer/proposer-guide.md)
-* [Challenge Setting Guide](proposer/challenge-setting-guide.md)
 
+## Challenge Setting
+
+* [Challenge Setting Guide](challenge-setting/challenge-setting-guide.md)
+* [Challenge Teams](challenge-setting/challenge-teams.md)
+
+## Help
+
+* [Contact us](help/contact-us.md)

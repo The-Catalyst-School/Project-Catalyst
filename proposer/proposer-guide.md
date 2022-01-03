@@ -10,32 +10,42 @@ The proposal plans and attachments can be viewed on our innovation platform, hos
 
 The quality of the output is dependent on the community’s ability to create and engage with new ideas. To that end, we would like to share a quick guide to writing successful proposals:
 
-**Proposing a title \(35 char. limit\)**
+**Proposing a title (35 char. limit)**
 
 The proposal name should give an indication of the innovation that you are trying to achieve while also grabbing people’s attention. But we want to avoid any slick marketing speak. Just tell your audience what it does and who it is for as clearly as possible. Keep it simple and informative and keep your audience in mind.
 
 * **Example Title:** Stake pool operator vlog network
 
-### **HOW TO WRITE A PROBLEM STATEMENT \(140 char. limit\)**
+
+
+### **How to write a problem statement (140 character limit)**
 
 **Rising to the challenge**
 
 Each fund will have a specific challenge which proposals will attempt to solve. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
 
+****
+
 **Challenge**
 
 How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
 
+
+
 **Problem statements**
 
-1. Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals? 
+1. Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals?&#x20;
 2. I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet.
 
 In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.
 
-**Making great problem statements \(140 char. limit\)**
+
+
+**Making great problem statements (140 char. limit)**
 
 The problem statement identifies the issue related to the challenge, and offers a solution. It is important to focus on common problems, urgent problems, expensive problems, and frequent problems. Explaining your problem in these terms is crucial to a good proposal so it should be the first thing seen by voters. A good problem statement has four components: the desired outcome, blocking problem, costs of the problem, and the evidence.
+
+
 
 **Structure of the problem statement**
 
@@ -44,18 +54,23 @@ The problem statement identifies the issue related to the challenge, and offers 
 * Costs of the problem: A summation of both the opportunity and financial costs of the problem to key stakeholders. This helps voters assess how much impact the problem has.
 * **Evidence**: Support for your position laid out in a detailed plan.
 
+
+
 **Here’s an example:**
 
-| _\*\*_ |  |
-| :--- | :--- |
-| Desired Outcome | We want to make it affordable to transfer money to workers living in the Philippines. |
-| Blocking problem | 11% of the population of the Philippines lose money on transaction fees. |
-| Costs of the problem | Around $1 billion is paid in transfer fees annually. |
-| Evidence | Link \(s\) to data which proves this. |
+| Desired Outcome      | We want to make it affordable to transfer money to workers living in the Philippines. |
+| -------------------- | ------------------------------------------------------------------------------------- |
+| Blocking problem     | 11% of the population of the Philippines lose money on transaction fees.              |
+| Costs of the problem | Around $1 billion is paid in transfer fees annually.                                  |
+| Evidence             | Link (s) to data which proves this.                                                   |
+
+****
 
 **Here’s the complete problem statement which condenses the information above:**
 
-“Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links \[[1](http://www.pricingphillipines.io)\],\[[2](http://www.exampleresearchproject.co.il)\]“
+“Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links \[[1](http://www.pricingphillipines.io)],\[[2](http://www.exampleresearchproject.co.il)]“
+
+****
 
 **In conclusion**
 
@@ -63,7 +78,9 @@ The problem statement identifies the issue related to the challenge, and offers 
 * Define the cost of the problem
 * Give evidence for your findings
 
-### **SOLUTION \(140 char. limit\)**
+
+
+### **Solution (140 character limit)**
 
 **Structuring the Solution**
 
@@ -73,13 +90,17 @@ It may sound obvious, but your solution must be based on a known problem. It has
 
 * **Example solution statement:** Create a stakepool operator-run digital magazine maintained on the blockchain to expose Cardano to new audiences outside of current users.
 
+****
+
 **In conclusion**
 
 * Address the problem directly to ensure that your solution rises to the challenge
 * Make your project stand out through differentiation
 * Create a solution that solves a problem instead of one looking for a problem.
 
-### **RELEVANT EXPERIENCE \(140 char. limit\)**
+
+
+### **Relevant experience (140 character limit)**
 
 **Find your edge**
 
@@ -89,13 +110,17 @@ Founders: The people who are working on your proposal can lend their personal ex
 
 * Example: John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
 
+
+
 **In conclusion**
 
 * Find your competitive edge and make sure that it is well known
 * This might look different for different kinds of projects
 * Remember that your audience is other people on the innovation platform
 
-### **PLAN IN DETAIL**
+
+
+### Plan in detail
 
 **Differentiate through insight**
 
@@ -104,6 +129,8 @@ Now that we have outlined the problem and given a solid solution, let’s talk a
 Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development..
 
 You should look at your plan as a roadmap and a need analysis. First of all, Why does your solution work? While you may have been the first to identify your problem it is important that you explain why your solution will be the most successful in a field of possible options.
+
+
 
 **Market**: The market you have identified has not been previously accessed or prioritized. Markets should be identified that have 20 percent growth a year.
 
@@ -121,6 +148,8 @@ You should look at your plan as a roadmap and a need analysis. First of all, Why
 
 * Example: Using the Ouroboros protocol allows our system to become more secure as decentralization increases.
 
+****
+
 **Show us the money**
 
 Complex problems often need sufficient funding to be solved. This is understood by the community at Project Catalyst. However, anyone voting on these proposals should be able to know how the funding is being spent. Giving a detailed breakdown of how the budget will be spent. This can come in a variety of ways but distilling your budget into a series of line items is a clear way to show voters that you have considered how major funding initiatives will be spent.
@@ -129,11 +158,13 @@ It is also important to remember that your budget should meet the requirements o
 
 * Example: Creating a developer focused podcast will take $5k in the initial 6 months.
 
+****
+
 **Getting on the road**
 
 When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals.
 
-In the roadmap it is also important to identify your key performance indicators \(KPIs\). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
+In the roadmap it is also important to identify your key performance indicators (KPIs). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
 
 * Users acquired
 * Product capability built
@@ -142,13 +173,19 @@ In the roadmap it is also important to identify your key performance indicators 
 
 The important thing to remember about KPIs is that they should have a number attached to them. Acquiring an initial 15 users is an achievable goal. Acquiring ‘a lot’ of users is pretty vague and difficult for anyone to adjudicate. Remember, you are presenting these ideas to the community, the clearer you make your intentions and the easier it is to verify that you have achieved your goals, the more likely it is that you will be seen as a great bet.
 
+****
+
 **IP**
 
-Please share with reviewers what is your IP policy \(Patents, trademarks, copyright, licensing etc’\) so they can assess if that is a good fit for the treasury.
+Please share with reviewers what is your IP policy (Patents, trademarks, copyright, licensing etc’) so they can assess if that is a good fit for the treasury.
+
+****
 
 **Defining success**
 
 What does success look like for this particular project? While it might not be entirely complete after one round of funding, your proposal should give us an idea of what an end state looks like. This, like your KPIs should be an easily understood number that can be verified by anyone.
+
+****
 
 **In conclusion**
 
@@ -157,23 +194,26 @@ What does success look like for this particular project? While it might not be e
 * Establish intellectual property rights so that everyone knows who owns what.
 * Define success for your project.
 
+
+
 ### **Attachments/links**
 
 It is important for everyone to be able to share additional necessary information. That is why PDFs, images and additional URLs can be sent through the Ideascale where they can be viewed by everyone.
 
-### **FEEDBACK**
+
+
+### **Feedback**
 
 **Community support**
 
 In order to make each individual proposal as strong as possible we encourage everyone to use the innovation platform to discuss each idea. In fact, we’ve created [reviewer guidelines](../community-advisor/assessment-guide.md) to help you direct your critique. For a productive and informative conversation we encourage everyone to focus their feedback on the following areas:
 
-**Auditability:** What details are missing from the proposal to help reviewers accurately assess the project?
+* **Auditability:** What details are missing from the proposal to help reviewers accurately assess the project?
+* **Impact:** How can the proposal better address the challenge? How can we encourage people to build dApps on Cardano in the next 6 months?
+* **Feasibility:** What are ways that the proposal’s budget, plan, and scope can be modified in order to make it more achievable.
+  * Example: If your marketing initiative gave the exact number of users it was attempting to onboard as a KPI then it would be much easier to track its success.
 
-**Impact:** How can the proposal better address the challenge? How can we encourage people to build dApps on Cardano in the next 6 months?
-
-**Feasibility:** What are ways that the proposal’s budget, plan, and scope can be modified in order to make it more achievable.
-
-* Example: If your marketing initiative gave the exact number of users it was attempting to onboard as a KPI then it would be much easier to track its success.
+****
 
 **In conclusion**
 
@@ -181,8 +221,9 @@ In order to make each individual proposal as strong as possible we encourage eve
 * Incorporate useful feedback into your own proposal
 * Participate actively in the innovation process to make sure it continues to grow
 
+
+
 ## Re**sources**
 
-* [Proposer guide](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/edit)
+* [Proposer guide](https://docs.google.com/document/d/1oE\_cnP0gksdAanXV4w5DYaDNp\_tbYEvyHhTUG4HYZ3Q/edit)
 * [Ideascale **-** submit an idea guide](https://intercom.help/ideascale/en/articles/682959-submit-an-idea)
-
