@@ -27,7 +27,7 @@ Official communication channels by IOHK
 
 **Telegram**
 
-* [Project Catalyst announcements](https://t.me/cardanocatalyst) &#x20;
+* [Project Catalyst announcements](https://t.me/cardanocatalyst)&#x20;
 * [Project Catalyst official chat](https://t.me/ProjectCatalystChat)
 * [Cardano official chat](https://t.me/Cardano)
 * [Community advisors official chat](https://t.me/CatalystCommunityAdvisors)
@@ -83,6 +83,12 @@ Projects and tools which are not maintained by IOHK, please be careful of scams
 * ****[catalystswarm.com](https://catalystswarm.com)
 * [gimbalabs.com](https://gimbalabs.com)
 * [projectcatalyst.org](https://projectcatalyst.org)
+
+
+
+**Collaboration**
+
+* [swarmsessions.com](https://swarmsessions.com) - Swarm sessions help with collaboration and meeting others in community. Sessions happen after town halls each week as well as on the weekends.
 
 ****
 

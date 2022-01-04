@@ -13,4 +13,4 @@ Project Catalyst is a series of experiments which seeks to generate the highest 
 * [**Veteran Community Advisor**](broken-reference) - Learn about the role of a veteran community advisor and how they help ensure a threshold of quality is reached with community advisor assessments
 * [**Proposer**](proposer/proposer-guide.md) - Learn about the role of a proposer who makes proposals to address problem statements outlined in challenge briefs that are set in each funding round
 * [**Challenge Setting**](broken-reference) - Learn how to suggest new challenges in the ecosystem that proposers would submit proposals into in future funding rounds
-* [**Help**](broken-reference) - Contact details for where to get help if you need it
+* [**Help**](broken-reference) - Contact details for where to get support from the community
