@@ -7,6 +7,8 @@
 * [What is Project Catalyst?](project-catalyst/what-is-project-catalyst.md)
 * [Community Moderation Guidelines](project-catalyst/community-moderation-guidelines.md)
 * [Useful Links](project-catalyst/useful-links.md)
+* [Data, Statistics & Analysis](project-catalyst/data-statistics-and-analysis.md)
+* [Check Rewards Earned](project-catalyst/check-rewards-earned.md)
 * [Glossary](project-catalyst/glossary.md)
 * [FAQ](project-catalyst/faq.md)
 
@@ -19,6 +21,7 @@
 
 * [Voter Overview](voter/voter-guide.md)
 * [Voter Registration](voter/voter-registration.md)
+* [Voter App Known Issues](voter/voter-app-known-issues.md)
 
 ## Community Advisor
 
@@ -29,6 +32,12 @@
   * [Fund 8](community-advisor/assessment-guide/fund-8.md)
   * [Fund 7](community-advisor/assessment-guide/fund-7.md)
   * [Fund 6](community-advisor/assessment-guide/fund-6.md)
+
+## Veteran Community Advisor
+
+* [Veteran Community Advisor Overview](veteran-community-advisor/veteran-community-advisor-overview.md)
+* [Assess QA stage](veteran-community-advisor/assess-qa-stage.md)
+* [The Yellow And Red Card Thing](veteran-community-advisor/the-yellow-and-red-card-thing.md)
 
 ## Proposer
 

@@ -163,6 +163,8 @@ The Project Catalyst team thanks all our community advisors for helping build th
 
 * [Community advisor guide](https://docs.google.com/document/d/1QkdaFK1tigrSI40iMeV3UP9GyTGsoqVmCUp7OJz0WFs)
 * [Community advisor onboarding](https://docs.google.com/document/d/16aq9dNudJ5S3TEVQhBgRznTCoaF8SQezyActtVhec8E/edit#)
+* [Community advisor tutorial](https://docs.google.com/presentation/d/1lo2NvEu2i7Ma2Z2jgtqzBeHS4Hzt\_xSOSVkYjkz1Nv4/edit)
+* [Advisor reward scheme presentation](https://docs.google.com/presentation/d/1fUeNvW3slVzr6MtSrZhoabdRPicPaIGSfhueWscxB50/edit#slide=id.ge6fadb2be8\_0\_0)
 
 ****
 
