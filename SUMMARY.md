@@ -23,8 +23,12 @@
 ## Community Advisor
 
 * [Community Advisor Overview](community-advisor/community-advisor-overview.md)
+* [Community Advisor Onboarding](community-advisor/community-advisor-onboarding.md)
 * [Community Advisor Guide](community-advisor/community-advisor-guide.md)
-* [Assessment Guide](community-advisor/assessment-guide.md)
+* [Assessment Guide](community-advisor/assessment-guide/README.md)
+  * [Fund 8](community-advisor/assessment-guide/fund-8.md)
+  * [Fund 7](community-advisor/assessment-guide/fund-7.md)
+  * [Fund 6](community-advisor/assessment-guide/fund-6.md)
 
 ## Proposer
 

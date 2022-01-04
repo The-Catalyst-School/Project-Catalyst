@@ -34,5 +34,8 @@ Below are a couple examples of challenge questions:
 
 ## Re**sources**
 
+****
+
+* [Challenge setting workshop](https://docs.google.com/presentation/d/1KGiwqfx7F7oV1gAPbfM6E5Xtzi-4nKAqeaORp7iNUsk/edit#slide=id.gba55c11b28\_0\_4324)
 * [Proposer guide](https://docs.google.com/document/d/1oE\_cnP0gksdAanXV4w5DYaDNp\_tbYEvyHhTUG4HYZ3Q/edit)
 * [Ideascale **-** submit an idea guide](https://intercom.help/ideascale/en/articles/682959-submit-an-idea)

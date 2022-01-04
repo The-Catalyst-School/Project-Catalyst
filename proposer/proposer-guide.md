@@ -206,7 +206,7 @@ It is important for everyone to be able to share additional necessary informatio
 
 **Community support**
 
-In order to make each individual proposal as strong as possible we encourage everyone to use the innovation platform to discuss each idea. In fact, we’ve created [reviewer guidelines](../community-advisor/assessment-guide.md) to help you direct your critique. For a productive and informative conversation we encourage everyone to focus their feedback on the following areas:
+In order to make each individual proposal as strong as possible we encourage everyone to use the innovation platform to discuss each idea. In fact, we’ve created [reviewer guidelines](../community-advisor/assessment-guide/) to help you direct your critique. For a productive and informative conversation we encourage everyone to focus their feedback on the following areas:
 
 * **Auditability:** What details are missing from the proposal to help reviewers accurately assess the project?
 * **Impact:** How can the proposal better address the challenge? How can we encourage people to build dApps on Cardano in the next 6 months?
