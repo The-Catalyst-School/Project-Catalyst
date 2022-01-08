@@ -27,7 +27,7 @@ Official communication channels by IOHK
 
 **Telegram**
 
-* [Project Catalyst announcements](https://t.me/cardanocatalyst)&#x20;
+* [Project Catalyst announcements](https://t.me/cardanocatalyst) &#x20;
 * [Project Catalyst official chat](https://t.me/ProjectCatalystChat)
 * [Cardano official chat](https://t.me/Cardano)
 * [Community advisors official chat](https://t.me/CatalystCommunityAdvisors)
@@ -42,9 +42,6 @@ Official communication channels by IOHK
 
 ## **Project Catalyst**
 
-* [Project Catalyst dashboard](https://docs.google.com/spreadsheets/d/15R-Vbajy4t4fGs1TipNMfL1pEO9cwdn6WV13lKviX4Q/edit?pli=1#gid=755717523)
-* [Community moderation](https://docs.google.com/document/d/1G\_\_eWrmsUxecET2e3zIniPSQJ-FWI1YAGJ-vLwzm8U8/edit)
-* [Treasury value data](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0)
 * [Voting result reports](https://cardano.ideascale.com/a/pages/results)
 * [Funded proposals cohort reporting](https://docs.google.com/spreadsheets/d/1e-HBO-UTFyT9aoTWhHQwqaRkjfJN7MXHwxnN9KsNuyc)
 * [All funded proposals Miro board](https://miro.com/app/board/o9J\_lDdCgNk=/)
@@ -83,12 +80,6 @@ Projects and tools which are not maintained by IOHK, please be careful of scams
 * ****[catalystswarm.com](https://catalystswarm.com)
 * [gimbalabs.com](https://gimbalabs.com)
 * [projectcatalyst.org](https://projectcatalyst.org)
-
-
-
-**Collaboration**
-
-* [swarmsessions.com](https://swarmsessions.com) - Swarm sessions help with collaboration and meeting others in community. Sessions happen after town halls each week as well as on the weekends.
 
 ****
 

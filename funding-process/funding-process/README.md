@@ -96,4 +96,4 @@ Voting committee distribute rewards to voters and to the community approved prop
 
 **Reporting**
 
-Proposers are tasked with reporting progress updates every two weeks after receiving funding to provide progress reports on the execution and delivery of their proposal.
+Proposers are tasked with reporting progress and KPI updates every month after receiving funding to provide reports on the execution and delivery of their proposal.

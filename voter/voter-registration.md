@@ -149,7 +149,6 @@ If you registered via AdaLite: submit a request via email to [adalite@vacuumlabs
 * [Android Catalyst App](https://play.google.com/store/apps/details?id=io.iohk.vitvoting)
 * [Registration and voting guide](https://iohk.zendesk.com/hc/en-us/articles/900005679386)
 * [All you need to know - Fund 6 Voting](https://www.reddit.com/r/cardano/comments/p2xpi8/project\_catalyst\_all\_you\_need\_to\_know\_fund6\_voter/)
-* [Fund 3 rewards calculation](https://docs.google.com/document/d/1Z2qLzGbLQxLgfDKqnTZFTL3IM28V8uUykptng0p5jbE/edit)
 * [Catalyst fund voting reward examples](https://docs.google.com/document/d/1Z2qLzGbLQxLgfDKqnTZFTL3IM28V8uUykptng0p5jbE/edit)
 
 **Community resources**

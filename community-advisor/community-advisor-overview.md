@@ -8,19 +8,19 @@ CAs help voters have more information on whether proposals are impactful, feasib
 
 CAs also help proposers by giving them feedback on how to improve their proposals which helps increase the overall quality of the proposals in each funding round.
 
-For more information about CAs, take a look at the [official Community Advisor Guide](https://docs.google.com/document/d/1QkdaFK1tigrSI40iMeV3UP9GyTGsoqVmCUp7OJz0WFs/edit#heading=h.ckr7mej5c3di).
+For more information about CAs, take a look at the [community advisor guide](community-advisor-guide.md).
 
 
 
 **Who can become a community advisor?**
 
-Anyone can become a Community Advisor (CA). The role is suitable for people who are open-minded, curious and want to enhance ideas in Project Catalyst. Expertise in a specific field is helpful but not a requirement. If you already have a certain role in project catalyst, there might be a conflict of interest. For more information, take a look at the following [document](https://docs.google.com/document/d/1m9IBuOgfFI1cIusupGPJn3R3EVkDXWzEUskRceCkLSQ/edit#heading=h.gw50yn1yxjbf).
+Anyone can become a Community Advisor (CA). The role is suitable for people who are open-minded, curious and want to enhance ideas in Project Catalyst. Expertise in a specific field is helpful but not a requirement. If someone makes a proposal in a challenge they are not able to make assessments as a CA in that challenge however are free to do assessments in other challenges.
 
 
 
 **Why should I become a community advisor?**
 
-Community Advisors in the world largest DAO are at the forefront of newest innovation and disruption in the DApp / DeFi space. Being a Community Advisor is perfect for intellectually curious people. You can engage in a variety of topics, learn a lot on the way and earn a side income. 4% of every funding round will be allocated as rewards for assessments to CAs. For more information on the rewards, look at the "Community Advisor Incentive" header in the official [Community Advisor Guide](https://docs.google.com/document/d/1Fn1CQHK\_TNSaybQtnxvI9DZJ9PAufZelBEfOLWbp-gw).
+Community Advisors in the world largest DAO are at the forefront of newest innovation and disruption in the DApp / DeFi space. Being a Community Advisor is perfect for intellectually curious people. You can engage in a variety of topics, learn a lot on the way and earn a side income. 4% of every funding round will be allocated as rewards for assessments to CAs. For more information on the rewards, look at the "Community Advisor Incentive" header in the [community advisor guide](community-advisor-guide.md)
 
 
 
@@ -32,7 +32,7 @@ Each funding round, you can sign up to become a community advisor. Just go to [C
 
 **How can I be an effective community advisor?**
 
-To become a better CA, carefully read official [CA guide](https://docs.google.com/document/d/1Fn1CQHK\_TNSaybQtnxvI9DZJ9PAufZelBEfOLWbp-gw) and follow the guiding principles.
+To become a better CA, carefully read the [community advisor guide](community-advisor-guide.md) and follow the guiding principles.
 
 * Treat proposals and proposers with respect.
 * Separate the idea from the proposal.
@@ -43,13 +43,13 @@ To become a better CA, carefully read official [CA guide](https://docs.google.co
 
 **How can I stay up to date with the recent information for CAs?**
 
-For weekly updates, you can watch the weekly townhall update on IOHK's [Youtube Channel](https://www.youtube.com/c/IohkIo/videos) Channel (every Wednesday). The newest funding rounds will be visible on [Cardano Ideascale](https://cardano.ideascale.com) and important announcements regarding Catalyst will be posted on [Telegram](https://t.me/cardanocatalyst). To engage in more conversations about the proposals, join the [Cardano Project Catalyst Discord](https://discord.gg/8HeBaUdm).
+For weekly updates, you can watch the weekly townhall update on IOHK's [Youtube Channel](https://www.youtube.com/c/IohkIo/videos) Channel (every Wednesday). The newest funding rounds will be visible on [Cardano Ideascale](https://cardano.ideascale.com) and important announcements regarding Catalyst will be posted on [Telegram](https://t.me/cardanocatalyst). To engage in more conversations about the proposals, join the community [Project Catalyst Discord](https://discord.gg/8HeBaUdm).
 
 
 
 **How do I connect with other CAs?**
 
-You can join the [CA Telegram](https://t.me/CatalystCommunityAdvisors) channel to get to know other CAs and engage in the most recent discussions. You can also find other active CAs in the community [Cardano Project Catalyst Discord](https://discord.com/invite/8HeBaUdm).
+You can join the [CA Telegram](https://t.me/CatalystCommunityAdvisors) channel to get to know other CAs and engage in the most recent discussions. You can also find other active CAs in the community [Project Catalyst Discord](https://discord.com/invite/8HeBaUdm).
 
 
 

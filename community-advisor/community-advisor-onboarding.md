@@ -109,4 +109,4 @@ A community landing page is under ongoing development. It is a place where many 
 
 
 
-Community made tutorial for Community Advisors: https://vimeo.com/600295406
+Community made tutorial for Community Advisors: [https://vimeo.com/600295406](https://vimeo.com/600295406)

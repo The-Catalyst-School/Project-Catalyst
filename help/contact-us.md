@@ -2,7 +2,7 @@
 
 **Community**
 
-Ask the community a question by joining the [community Discord server](https://discord.gg/SZAcUJRfQV).
+Ask the community a question in the community [Project Catalyst Discord](https://discord.gg/SZAcUJRfQV) server.
 
 ****
 
@@ -17,7 +17,3 @@ Team Catalyst is made up of a number of people who you may come across on your t
 | Kriss Baird, kriss.baird@iohk.io             | Product Manager Catalyst Innovation |                                               |
 | Roberta Lifonso, roberta.lifonso@iohk.io     | Operations Manager                  | Scheduling and programme                      |
 | Marek Buchowiecki, marek.buchowiecki@iohk.io | Release Manager                     | Payments and Ideascale                        |
-
-
-
-****

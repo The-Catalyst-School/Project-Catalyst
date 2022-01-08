@@ -6,16 +6,16 @@
 
 * [What is Project Catalyst?](project-catalyst/what-is-project-catalyst.md)
 * [Community Moderation Guidelines](project-catalyst/community-moderation-guidelines.md)
-* [Useful Links](project-catalyst/useful-links.md)
-* [Data, Statistics & Analysis](project-catalyst/data-statistics-and-analysis.md)
 * [Check Rewards Earned](project-catalyst/check-rewards-earned.md)
+* [Data, Statistics & Analysis](project-catalyst/data-statistics-and-analysis.md)
+* [Useful Links](project-catalyst/useful-links.md)
 * [Glossary](project-catalyst/glossary.md)
 * [FAQ](project-catalyst/faq.md)
 
 ## Funding Process
 
-* [Funding Process](funding-process/funding-process.md)
-* [Insight Sharing](funding-process/insight-sharing.md)
+* [Funding Process](funding-process/funding-process/README.md)
+  * [Insight Sharing](funding-process/funding-process/insight-sharing.md)
 
 ## Voter
 
