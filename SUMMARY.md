@@ -33,12 +33,6 @@
   * [Fund 7](community-advisor/assessment-guide/fund-7.md)
   * [Fund 6](community-advisor/assessment-guide/fund-6.md)
 
-## Veteran Community Advisor
-
-* [Veteran Community Advisor Overview](veteran-community-advisor/veteran-community-advisor-overview.md)
-* [Assess QA stage](veteran-community-advisor/assess-qa-stage.md)
-* [The Yellow And Red Card Thing](veteran-community-advisor/the-yellow-and-red-card-thing.md)
-
 ## Proposer
 
 * [Proposer Overview](proposer/proposer-overview.md)

@@ -165,13 +165,4 @@ The Project Catalyst team thanks all our community advisors for helping build th
 * [Community advisor onboarding](https://docs.google.com/document/d/16aq9dNudJ5S3TEVQhBgRznTCoaF8SQezyActtVhec8E/edit#)
 * [Community advisor tutorial](https://docs.google.com/presentation/d/1lo2NvEu2i7Ma2Z2jgtqzBeHS4Hzt\_xSOSVkYjkz1Nv4/edit)
 * [Advisor reward scheme presentation](https://docs.google.com/presentation/d/1fUeNvW3slVzr6MtSrZhoabdRPicPaIGSfhueWscxB50/edit#slide=id.ge6fadb2be8\_0\_0)
-
-****
-
-**Community resources**
-
-{% hint style="info" %}
-The following resources are not maintained by IOHK but have been used by the community, please be careful of scams
-{% endhint %}
-
-* [CA & vCA Iterative DropBox](https://docs.google.com/document/d/1-\_463rk9GJxhwrEQoI2q7E7uAjY8mXZPm40bdluQ4KQ/edit)
+* [CA & vCA Iterative DropBox](https://docs.google.com/spreadsheets/d/120HylsMq-2oXeop7m8vBoaf7eb2D8viJazJs\_EPWU2I/edit#gid=0)

@@ -366,6 +366,4 @@ Please direct any further questions to the [Telegram channel: CatalystCommunityA
 
 ## **Resources**
 
-* [Assessment guide](https://docs.google.com/document/d/1Fn1CQHK\_TNSaybQtnxvI9DZJ9PAufZelBEfOLWbp-gw/edit#heading=h.nvn8rjkdb8jh)
-* [Assess QA stage - Fund 5](https://docs.google.com/document/d/1R3il7CjEjp-b\_-dXK9jQwgWsyrnAYDzL\_i\_SHlVsZlM/edit?pli=1)
-* [Reviewing assessments - yellow / red card review system](https://docs.google.com/document/d/1LTw7iY-\_XJ5welSUk-olRvkfyVuOIPcR\_iAgqbnZv8c/edit)
+* [Assessment guide](https://docs.google.com/document/d/1g-iZhDlKhUBZkui1uv8NVNfJC4oVD3JtR-P6Fue7XPU/edit)
